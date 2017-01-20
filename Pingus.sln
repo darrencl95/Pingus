@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{8D23F191-32F4-8A6A-65B3-F1E172377BBD}") = "Pingus", "Assembly-CSharp-firstpass.csproj", "{8BE5E567-27D0-E252-9D22-DF6996A4F5F7}"
+EndProject
+Project("{8D23F191-32F4-8A6A-65B3-F1E172377BBD}") = "Pingus", "Assembly-CSharp-Editor-firstpass.csproj", "{035F77E8-611A-5B85-9E39-C157B4B64F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BE5E567-27D0-E252-9D22-DF6996A4F5F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE5E567-27D0-E252-9D22-DF6996A4F5F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE5E567-27D0-E252-9D22-DF6996A4F5F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE5E567-27D0-E252-9D22-DF6996A4F5F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{035F77E8-611A-5B85-9E39-C157B4B64F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{035F77E8-611A-5B85-9E39-C157B4B64F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{035F77E8-611A-5B85-9E39-C157B4B64F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{035F77E8-611A-5B85-9E39-C157B4B64F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
